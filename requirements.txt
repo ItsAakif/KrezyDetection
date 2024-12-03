@@ -1,0 +1,14 @@
+deepface>=0.0.79
+opencv-python>=4.7.0
+numpy>=1.21.0
+pandas>=1.3.0
+
+# Web dependencies (optional)
+Flask>=2.0.0
+Flask-SocketIO>=5.0.0
+
+# Mobile dependencies (optional)
+kivy>=2.1.0
+
+# Desktop dependencies (optional)
+customtkinter>=5.1.2
